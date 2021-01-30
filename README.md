@@ -8,4 +8,4 @@ Author: Ang Zheng Yong
 3. [Write-up](/cvwo_write_up.pdf)
 
 ## For final submission
-1. TBC
+Withdrawn due to other commitments over the summer.
